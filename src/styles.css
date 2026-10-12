@@ -6,3 +6,20 @@
 div {
   margin: 10px;
 }
+.logo-img {
+  width: 50px;
+}
+.header{
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  flex-direction: row;
+}
+.header-logo{
+  flex-direction: column;
+}
+.header_nav{
+  height: 20px;
+  align-self: center;
+  justify-content: center;
+}
